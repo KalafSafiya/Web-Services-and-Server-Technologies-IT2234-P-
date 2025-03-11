@@ -1,2 +1,2 @@
-# Web-Services-and-Server-Technologies-IT2234
- Day 01 - 10/03/2025
+IT2234 Practical  Day 01 - 10/03/2025
+
