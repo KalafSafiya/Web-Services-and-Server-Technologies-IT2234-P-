@@ -1,6 +1,9 @@
-IT2234 Practical  Day 01 - 17/03/2025
+IT2234 Practical  Day 02 - 17/03/2025
+
+ARRAYS IN JAVASCRIPT
 
 OUTPUTS
+
 
 
 
