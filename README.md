@@ -1,3 +1,4 @@
+Day-02
 IT2234 Practical  Day 02 - 17/03/2025
 
 ARRAYS IN JAVASCRIPT
@@ -45,6 +46,7 @@ JSON intro
 
 
 
+main
 
 
 
