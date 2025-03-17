@@ -4,6 +4,11 @@ ARRAYS IN JAVASCRIPT
 
 OUTPUTS
 
+01)Initializing and printing elements of a number array
+
+![Uploading image.png…]()
+
+
 
 
 
