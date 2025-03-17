@@ -1,7 +1,7 @@
 // Basic Mathematical Operations 
 console.log("Mathematical operations:\n");
 
-console.log(" ---- Using let ---- ");
+console.log(" ---- Using Let ---- ");
 
 let num1 = 10;
 let num2 = 5;
