@@ -1,6 +1,6 @@
 IT2234 Practical  Day 01 - 10/03/2025
 
-OUTPUTS
+Outputs
 
 Printing Hello World
 ![image](https://github.com/user-attachments/assets/61b2c581-50ce-4dec-ba89-9ca78d33e6b7)
