@@ -33,20 +33,8 @@ Reversing an array using pop function
 JSON intro
   ![image](https://github.com/user-attachments/assets/64b86437-cde3-45c7-bb15-410ba553f1dc)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-main
+Accessing elements in a JSON array
+  ![image](https://github.com/user-attachments/assets/ff0a9774-1787-45ae-9d61-fc378cdc9026)
 
 
 
