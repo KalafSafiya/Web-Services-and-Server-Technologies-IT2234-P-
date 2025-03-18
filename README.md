@@ -33,7 +33,11 @@ Reversing an array using pop function
 JSON intro
   ![image](https://github.com/user-attachments/assets/64b86437-cde3-45c7-bb15-410ba553f1dc)
 
+Accessing elements in JSON array
+  ![image](https://github.com/user-attachments/assets/6bf0a675-a097-4a36-a42d-82405e733a64)
 
+Finding the most Frequent Element in an Array
+  ![image](https://github.com/user-attachments/assets/b213f91f-f809-40f5-8603-c249732fbc0b)
 
 
 
