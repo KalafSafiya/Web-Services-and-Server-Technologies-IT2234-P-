@@ -1,28 +1,29 @@
 Day-03
-IT2234 Practical  Day 03 - 19/03/2025
+IT2234 Practical  Day 03 - 20/03/2025
 
-FUNCTIONS IN JAVASCRIPT
+INTRODUCTION TO NODE.JS
 
-OUTPUTS
-Functions in JS
+BASIC HTTP SERVER USING NODE.JS
 
-![image](https://github.com/user-attachments/assets/2b934d35-4546-46f6-ac87-d8c49b79ef1b)
+In this practical, we created a simple web server using Node.js' built-in http module.
+We used createServer() to handle requests and send responses.
+The server listens on localhost (127.0.0.1) and port 3000.
+When someone accesses the server, it responds with "Hello Node JS" in plain text.
 
-Finding whether a number is prime using Function
+![image](https://github.com/user-attachments/assets/06d52922-1044-4d53-8886-27009115fe91)
 
-![image](https://github.com/user-attachments/assets/bf587bb8-bd12-4064-ba2c-fb1024a1e820)
 
-Printing numbers from 1 to n using a recusrive Function
+SETTING UP A SERVER USING EXPRESS.JS
 
-![image](https://github.com/user-attachments/assets/446d2b43-a09d-453e-8df8-7397df97fe83)
+Express.js is built on top of Node.js' http module but provides a simpler and more efficient way to handle web servers
 
-Arrow Functions in JS
+In this practical, we created a simple web server using Express.js, a popular Node.js framework.
+We installed Express.js using npm install express.
+We created an Express server that listens on port 3001.
+The server responds with "Hello Express JS" when accessed from a browser.
 
-![image](https://github.com/user-attachments/assets/6e2f4df8-805e-4d64-9bf9-730767c89d85)
+![image](https://github.com/user-attachments/assets/b2258071-7953-4720-9861-22390650abec)
 
-Rest Parameter in JS
-
-![image](https://github.com/user-attachments/assets/74acea20-f363-4d9a-9563-09d55d492781)
 
 
 
