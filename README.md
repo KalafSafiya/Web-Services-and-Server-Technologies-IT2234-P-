@@ -22,11 +22,11 @@ GET /name/:name - Filters and returns students based on their name.
 Testing:
 To test this API, you can use Postman:
 
-Send a GET request to http://localhost:3001/stu to see all students.
+Send a GET request to 127.0.0.1:3001/stu to see all students.
 
-Send a GET request to http://localhost:3001/stu/{id} (replace {id} with an actual registration number) to see a specific student.
+Send a GET request to 127.0.0.1:3001/stu/{id} (replace {id} with an actual registration number) to see a specific student.
 
-Send GET requests to http://localhost:3001/gender/{gen}, http://localhost:3001/name/{name}, or http://localhost:3001/course/{course} 
+Send GET requests to http://localhost:3001/gender/{gen}, 127.0.0.1:3001/name/{name}, or 127.0.0.1:3001/course/{course} 
 to filter students based on gender, name, or course.
 
 
