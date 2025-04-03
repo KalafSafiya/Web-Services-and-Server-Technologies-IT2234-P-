@@ -1,26 +1,18 @@
-IT2234 Practical  ICAE 01 - 27/03/2025
+IT2234 Practical  Day 06 - 03/04/2025
 
-Question 01
+![image](https://github.com/user-attachments/assets/828aa01a-8c5c-49c4-b723-8bc6e1b37d7d)
 
-![image](https://github.com/user-attachments/assets/dc7eeb4e-0fbd-4e61-85ca-2e3c0e505399)
+![image](https://github.com/user-attachments/assets/c40b7f71-654b-4f24-aaa5-964a114077a8)
 
-Question 02
+![image](https://github.com/user-attachments/assets/8d5cbec0-20a0-47cd-9e10-74b661f0c23e)
 
-![image](https://github.com/user-attachments/assets/0a9002d3-f820-411d-9418-91cb3551370a)
+![image](https://github.com/user-attachments/assets/0d547277-e469-4b13-905d-f78baf3184e1)
 
-Question 03
+![image](https://github.com/user-attachments/assets/b65e546d-6241-4b85-a4e1-a81682daf1b4)
 
-![image](https://github.com/user-attachments/assets/b2314942-bb68-4ed8-9eab-ea7b18cbfcda)
+![image](https://github.com/user-attachments/assets/30fc4e32-04b9-42f9-b254-23429cc0c046)
 
-Question 04
-
-![image](https://github.com/user-attachments/assets/26ab6d94-e2d8-4dc7-9a8f-4f2a910e1d56)
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/5a086c20-2310-428c-82f5-c84c9a9ced93)
 
 
 
