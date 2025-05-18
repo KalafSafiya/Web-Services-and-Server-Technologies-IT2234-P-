@@ -1,3 +1,4 @@
+
 # Step-by-Step Explanation: Course REST API Practical
 
 This project creates a REST API using **Node.js**, **Express**, and **MongoDB** to manage course data.
