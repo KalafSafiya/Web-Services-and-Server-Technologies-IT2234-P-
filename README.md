@@ -1,10 +1,10 @@
-# 📘 Step-by-Step Explanation: Course REST API Practical
+# Step-by-Step Explanation: Course REST API Practical
 
 This project creates a REST API using **Node.js**, **Express**, and **MongoDB** to manage course data.
 
 ---
 
-## ✅ Step-by-Step Breakdown
+## Step-by-Step Breakdown
 
 ### 1. Start an Express server
 - In `index.js`, the server is started using Express on port `3001`.
@@ -29,14 +29,14 @@ This project creates a REST API using **Node.js**, **Express**, and **MongoDB** 
 - In `index.js`, the route is registered using:
   ```js
   app.use('/course', coursert)
-🔗 What Each API Does
-✅ GET /course/
+What Each API Does
+GET /course/
 Fetches and returns all courses from the database.
 
-✅ GET /course/:id
+GET /course/:id
 Fetches a specific course by its MongoDB _id.
 
-✅ GET /course/code/:cid
+GET /course/code/:cid
 Fetches course(s) by the course code (e.g., IT2234).
 
 ![image](https://github.com/user-attachments/assets/be4f15cc-b4f0-485a-b34d-64dfd6341775)
