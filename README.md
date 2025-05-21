@@ -1,5 +1,5 @@
 
-# Course API - Express Router
+
 
 This module provides API routes for managing course data using Express.js and MongoDB (Mongoose)
 
