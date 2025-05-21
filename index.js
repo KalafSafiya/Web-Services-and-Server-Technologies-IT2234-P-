@@ -3,11 +3,14 @@ const app=express();
 const port=3001;
 const mongoose=require('mongoose');
 const coursert = require('./routes/courseRoute')
+const degreert = require('./routes/degreeRoute')
 
 
 
 app.use(express.json())
 app.use('/course',coursert)
+app.use('/degree',degreert)
+
 mongoose.connect('mongodb://localhost:27017/studentinfDB').then(()=>
  {
     console.log("Database connected")
