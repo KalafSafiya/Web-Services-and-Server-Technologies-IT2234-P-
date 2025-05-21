@@ -13,5 +13,5 @@ const webservice= new Course({
     credits:3,
     description:'Build a REST API with Node.js technology'
 })
-webservice.save()
+//webservice.save()
 module.exports=Course
